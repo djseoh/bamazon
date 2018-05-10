@@ -2,7 +2,6 @@
 ============
 Georgia Tech Coding Bootcamp
 Fullstack Web Development
-Homework 10
 
 # Our Team
 * Daniel Seoh
@@ -18,12 +17,12 @@ Bamazon is a command line node application that displays items on sale to custom
 This project will use the following:
 * Node to create a command line application
 * NPM to download small api libraries
-* Spotify API to get track information
-* Twitter API to retrieve tweets
-* request API to access the OMDB
+* mysql to create a database
+* mysql npm
+* inquirer npm
 
 # Who is doing what?
 Daniel Seoh is handling:
 * Everything
 
-![alt text](images/screenshot.png "Logo Title Text 1")
+![alt text](images/screenshots.png "Logo Title Text 1")
