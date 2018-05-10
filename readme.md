@@ -11,7 +11,7 @@ Bamazon is a command line node application that displays items on sale to custom
 
 
 # Project Sketches
-* [Github project link](https://github.com/djseoh/liri-node-app)
+* [Github project link](https://github.com/djseoh/bamazon)
 
 # APIs, New Tech & Some Stuff We Already Know...
 This project will use the following:
